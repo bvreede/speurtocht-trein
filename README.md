@@ -21,9 +21,12 @@ De uitzondering daarop is de decoder die in puzzel 2 zit; die heb je ook nodig v
 ## Voorbereiding
 
 1. Print de [PDF bestanden voor de puzzels](puzzels.pdf).
-2. Twee puzzels zijn bijzonder: de briefkaart en de legpuzzel. En de decoder.
-3. Nummer de puzzels (bijvoorbeeld in enveloppen) zodat ze op volgorde en stuk voor stuk gedaan kunnen worden. Het is belangrijk dat iedere puzzel op een specifieke locatie wordt gedaan, omdat de uitkomst context-specifiek is. (Bijvoorbeeld: op **station Utrecht** zou een puzzel je kunnen verwijzen naar de **stoptrein naar Hilversum**. Die uitkomst is natuurlijk niet nuttig als je in de binnenstad van Rotterdam staat.)
-4. Het is aan te raden om van tevoren de treinen na te kijken, om zeker te zijn dat alle routes rijden. Alle treinen die genomen moeten worden kan je vinden bij de [antwoorden](antwoorden.md).
+2. Twee puzzels zijn bijzonder:
+   a. De **legpuzzel** (nummer 3). Deze kan je extra speciaal maken, door de hem bij een fotoservice (bijvoorbeeld Hema of Kruidvat) te bestellen als echte legpuzzel.
+   b. De **briefkaart** (nummer X). De tekst van deze puzzel kan je overschrijven op een echte briefkaart, met de namen van de kinderen die de puzzel gaan doen in de aanhef.
+3. Verder is de decoder van belang. Deze
+4. Nummer de puzzels (bijvoorbeeld in enveloppen) zodat ze op volgorde en stuk voor stuk gedaan kunnen worden. Het is belangrijk dat iedere puzzel op een specifieke locatie wordt gedaan, omdat de uitkomst context-specifiek is. (Bijvoorbeeld: op **station Utrecht** zou een puzzel je kunnen verwijzen naar de **stoptrein naar Hilversum**. Die uitkomst is natuurlijk niet nuttig als je in de binnenstad van Rotterdam staat.)
+5. Het is aan te raden om van tevoren de treinen na te kijken, om zeker te zijn dat alle routes rijden. Alle treinen die genomen moeten worden kan je vinden bij de [antwoorden](antwoorden.md).
 
 ## [Route en antwoorden](antwoorden.md)
 Deze informatie bevat (natuurlijk) heftige spoilers! Klik op eigen risico.
